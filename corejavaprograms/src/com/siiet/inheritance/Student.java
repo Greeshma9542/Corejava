@@ -19,7 +19,7 @@ public class Student extends Citizen {
 		return rollno;
 	}
 	public void setRollno(int rollno) {
-		this.rollno = rollno;
+		this.rollno = rollno;0
 	}
 	public String getCollegename() {
 		return collegename;

@@ -8,8 +8,11 @@ public class Student {
 		college="IIT";
 	}
 	Student(int r,String n){
-		rollno;
-		name;
+		rollno=r;
+		name=n;
+	}
+	void display() {
+		System.out.println(rollno +" "+name+" "+college);
 		
 	}
 
